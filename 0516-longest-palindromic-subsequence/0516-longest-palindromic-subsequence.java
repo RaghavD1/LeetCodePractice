@@ -4,16 +4,27 @@ class Solution {
         int[][] dp=new int[s.length()][s.length()];
         for(int i=0;i<dp.length;i++)
         {
-            Arrays.fill(dp[i],-1);
+            for(int j=0;j<dp.length;j++)
+            {
+                if(i==j)dp[i][j]=1;
+            }
         }
-        return fn(s,0,s.length()-1,dp);
+        for(int len=2;len<=s.length();len++)
+        {
+            for(int i=0;i<s.length()-len+1;i++)
+            {
+                int j=i+len-1;
+                if(s.charAt(i)==s.charAt(j))
+                {
+                    dp[i][j]=2+dp[i+1][j-1];
+                }
+                else
+                {
+                    dp[i][j]=Math.max(dp[i+1][j],dp[i][j-1]);
+                }
+            }
+        }
+        return dp[0][s.length()-1];
     }
-    private int fn(String s,int l,int h,int[][] dp)
-    {
-        if(l>h)return 0;
-        if(l==h)return 1;
-        if(s.charAt(l)==s.charAt(h))return 2+fn(s,l+1,h-1,dp);
-        if(dp[l][h]!=-1)return dp[l][h];
-        return dp[l][h]= Math.max(fn(s,l+1,h,dp),fn(s,l,h-1,dp));
-    }
+    
 }
