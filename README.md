@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/RaghavD1/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RaghavD1/LeetCodePractice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/RaghavD1/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RaghavD1/LeetCodePractice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -19,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/RaghavD1/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RaghavD1/LeetCodePractice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
