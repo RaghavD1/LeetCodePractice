@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/RaghavD1/LeetCodePractice/tree/master/0036-valid-sudoku) |
+| [0387-first-unique-character-in-a-string](https://github.com/RaghavD1/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RaghavD1/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3731-find-missing-elements](https://github.com/RaghavD1/LeetCodePractice/tree/master/3731-find-missing-elements) |
 ## Tree
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RaghavD1/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/RaghavD1/LeetCodePractice/tree/master/0516-longest-palindromic-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RaghavD1/LeetCodePractice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RaghavD1/LeetCodePractice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RaghavD1/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RaghavD1/LeetCodePractice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RaghavD1/LeetCodePractice/tree/master/0852-peak-index-in-a-mountain-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RaghavD1/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
