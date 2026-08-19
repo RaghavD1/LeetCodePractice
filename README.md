@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/RaghavD1/LeetCodePractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RaghavD1/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RaghavD1/LeetCodePractice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/RaghavD1/LeetCodePractice/tree/master/0036-valid-sudoku) |
+| [0160-intersection-of-two-linked-lists](https://github.com/RaghavD1/LeetCodePractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaghavD1/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RaghavD1/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RaghavD1/LeetCodePractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/RaghavD1/LeetCodePractice/tree/master/0177-nth-highest-salary) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/RaghavD1/LeetCodePractice/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
