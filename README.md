@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/RaghavD1/LeetCodePractice/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RaghavD1/LeetCodePractice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0931-minimum-falling-path-sum](https://github.com/RaghavD1/LeetCodePractice/tree/master/0931-minimum-falling-path-sum) |
+| [0980-unique-paths-iii](https://github.com/RaghavD1/LeetCodePractice/tree/master/0980-unique-paths-iii) |
 | [2401-longest-nice-subarray](https://github.com/RaghavD1/LeetCodePractice/tree/master/2401-longest-nice-subarray) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RaghavD1/LeetCodePractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RaghavD1/LeetCodePractice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/RaghavD1/LeetCodePractice/tree/master/0113-path-sum-ii) |
+| [0980-unique-paths-iii](https://github.com/RaghavD1/LeetCodePractice/tree/master/0980-unique-paths-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/RaghavD1/LeetCodePractice/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/RaghavD1/LeetCodePractice/tree/master/0174-dungeon-game) |
 | [0931-minimum-falling-path-sum](https://github.com/RaghavD1/LeetCodePractice/tree/master/0931-minimum-falling-path-sum) |
+| [0980-unique-paths-iii](https://github.com/RaghavD1/LeetCodePractice/tree/master/0980-unique-paths-iii) |
 ## Ternary Search
 |  |
 | ------- |
@@ -155,9 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0980-unique-paths-iii](https://github.com/RaghavD1/LeetCodePractice/tree/master/0980-unique-paths-iii) |
 | [2401-longest-nice-subarray](https://github.com/RaghavD1/LeetCodePractice/tree/master/2401-longest-nice-subarray) |
 ## Sliding Window
 |  |
 | ------- |
 | [2401-longest-nice-subarray](https://github.com/RaghavD1/LeetCodePractice/tree/master/2401-longest-nice-subarray) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/RaghavD1/LeetCodePractice/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
