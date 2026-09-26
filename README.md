@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/RaghavD1/LeetCodePractice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0931-minimum-falling-path-sum](https://github.com/RaghavD1/LeetCodePractice/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/RaghavD1/LeetCodePractice/tree/master/0980-unique-paths-iii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RaghavD1/LeetCodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2401-longest-nice-subarray](https://github.com/RaghavD1/LeetCodePractice/tree/master/2401-longest-nice-subarray) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RaghavD1/LeetCodePractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RaghavD1/LeetCodePractice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/RaghavD1/LeetCodePractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaghavD1/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RaghavD1/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RaghavD1/LeetCodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RaghavD1/LeetCodePractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RaghavD1/LeetCodePractice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/RaghavD1/LeetCodePractice/tree/master/3731-find-missing-elements) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/RaghavD1/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/RaghavD1/LeetCodePractice/tree/master/0516-longest-palindromic-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RaghavD1/LeetCodePractice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RaghavD1/LeetCodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RaghavD1/LeetCodePractice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
