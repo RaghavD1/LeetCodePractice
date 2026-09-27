@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/RaghavD1/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/RaghavD1/LeetCodePractice/tree/master/0516-longest-palindromic-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RaghavD1/LeetCodePractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RaghavD1/LeetCodePractice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RaghavD1/LeetCodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RaghavD1/LeetCodePractice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -202,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/RaghavD1/LeetCodePractice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RaghavD1/LeetCodePractice/tree/master/3904-smallest-stable-index-ii) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RaghavD1/LeetCodePractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RaghavD1/LeetCodePractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
