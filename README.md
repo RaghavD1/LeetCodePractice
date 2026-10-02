@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RaghavD1/LeetCodePractice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/RaghavD1/LeetCodePractice/tree/master/0022-generate-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaghavD1/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/RaghavD1/LeetCodePractice/tree/master/0516-longest-palindromic-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaghavD1/LeetCodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RaghavD1/LeetCodePractice/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/RaghavD1/LeetCodePractice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/RaghavD1/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/RaghavD1/LeetCodePractice/tree/master/0120-triangle) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RaghavD1/LeetCodePractice/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/RaghavD1/LeetCodePractice/tree/master/0113-path-sum-ii) |
 | [0980-unique-paths-iii](https://github.com/RaghavD1/LeetCodePractice/tree/master/0980-unique-paths-iii) |
 ## Enumeration
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RaghavD1/LeetCodePractice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/RaghavD1/LeetCodePractice/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaghavD1/LeetCodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RaghavD1/LeetCodePractice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RaghavD1/LeetCodePractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
