@@ -9,7 +9,7 @@ class Solution {
     }
     public void dfs(StringBuilder sb,int open,int close, List<String>ans,int n)
     {
-        if(open==n&&close==n)
+        if(sb.length()/2==n)
         {
             ans.add(sb.toString());
             return;
