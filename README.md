@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/RaghavD1/LeetCodePractice/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RaghavD1/LeetCodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2401-longest-nice-subarray](https://github.com/RaghavD1/LeetCodePractice/tree/master/2401-longest-nice-subarray) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaghavD1/LeetCodePractice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RaghavD1/LeetCodePractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RaghavD1/LeetCodePractice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RaghavD1/LeetCodePractice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/RaghavD1/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RaghavD1/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RaghavD1/LeetCodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaghavD1/LeetCodePractice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RaghavD1/LeetCodePractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RaghavD1/LeetCodePractice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/RaghavD1/LeetCodePractice/tree/master/3731-find-missing-elements) |
@@ -236,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaghavD1/LeetCodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RaghavD1/LeetCodePractice/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaghavD1/LeetCodePractice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaghavD1/LeetCodePractice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
