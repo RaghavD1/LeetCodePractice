@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/RaghavD1/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaghavD1/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1154-day-of-the-year](https://github.com/RaghavD1/LeetCodePractice/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/RaghavD1/LeetCodePractice/tree/master/1360-number-of-days-between-two-dates) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RaghavD1/LeetCodePractice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RaghavD1/LeetCodePractice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/RaghavD1/LeetCodePractice/tree/master/0516-longest-palindromic-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaghavD1/LeetCodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RaghavD1/LeetCodePractice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1154-day-of-the-year](https://github.com/RaghavD1/LeetCodePractice/tree/master/1154-day-of-the-year) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RaghavD1/LeetCodePractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RaghavD1/LeetCodePractice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1360-number-of-days-between-two-dates](https://github.com/RaghavD1/LeetCodePractice/tree/master/1360-number-of-days-between-two-dates) |
