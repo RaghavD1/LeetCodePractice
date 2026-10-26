@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RaghavD1/LeetCodePractice/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/RaghavD1/LeetCodePractice/tree/master/0279-perfect-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaghavD1/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1154-day-of-the-year](https://github.com/RaghavD1/LeetCodePractice/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/RaghavD1/LeetCodePractice/tree/master/1360-number-of-days-between-two-dates) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/RaghavD1/LeetCodePractice/tree/master/0279-perfect-squares) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RaghavD1/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/RaghavD1/LeetCodePractice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaghavD1/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0174-dungeon-game](https://github.com/RaghavD1/LeetCodePractice/tree/master/0174-dungeon-game) |
+| [0279-perfect-squares](https://github.com/RaghavD1/LeetCodePractice/tree/master/0279-perfect-squares) |
 | [0516-longest-palindromic-subsequence](https://github.com/RaghavD1/LeetCodePractice/tree/master/0516-longest-palindromic-subsequence) |
 | [0576-out-of-boundary-paths](https://github.com/RaghavD1/LeetCodePractice/tree/master/0576-out-of-boundary-paths) |
 | [0845-longest-mountain-in-array](https://github.com/RaghavD1/LeetCodePractice/tree/master/0845-longest-mountain-in-array) |
@@ -251,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaghavD1/LeetCodePractice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/RaghavD1/LeetCodePractice/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/RaghavD1/LeetCodePractice/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
