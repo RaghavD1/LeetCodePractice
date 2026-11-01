@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/RaghavD1/LeetCodePractice/tree/master/0164-maximum-gap) |
 | [0174-dungeon-game](https://github.com/RaghavD1/LeetCodePractice/tree/master/0174-dungeon-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaghavD1/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/RaghavD1/LeetCodePractice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaghavD1/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0845-longest-mountain-in-array](https://github.com/RaghavD1/LeetCodePractice/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RaghavD1/LeetCodePractice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/RaghavD1/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/RaghavD1/LeetCodePractice/tree/master/0279-perfect-squares) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/RaghavD1/LeetCodePractice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaghavD1/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1154-day-of-the-year](https://github.com/RaghavD1/LeetCodePractice/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/RaghavD1/LeetCodePractice/tree/master/1360-number-of-days-between-two-dates) |
