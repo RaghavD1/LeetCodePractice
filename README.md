@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/RaghavD1/LeetCodePractice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RaghavD1/LeetCodePractice/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/RaghavD1/LeetCodePractice/tree/master/0036-valid-sudoku) |
+| [0055-jump-game](https://github.com/RaghavD1/LeetCodePractice/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/RaghavD1/LeetCodePractice/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/RaghavD1/LeetCodePractice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaghavD1/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RaghavD1/LeetCodePractice/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/RaghavD1/LeetCodePractice/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/RaghavD1/LeetCodePractice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/RaghavD1/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/RaghavD1/LeetCodePractice/tree/master/0120-triangle) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/RaghavD1/LeetCodePractice/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaghavD1/LeetCodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RaghavD1/LeetCodePractice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
