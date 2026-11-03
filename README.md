@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/RaghavD1/LeetCodePractice/tree/master/0174-dungeon-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaghavD1/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RaghavD1/LeetCodePractice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0506-relative-ranks](https://github.com/RaghavD1/LeetCodePractice/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaghavD1/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0845-longest-mountain-in-array](https://github.com/RaghavD1/LeetCodePractice/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RaghavD1/LeetCodePractice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/RaghavD1/LeetCodePractice/tree/master/0018-4sum) |
 | [0164-maximum-gap](https://github.com/RaghavD1/LeetCodePractice/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaghavD1/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/RaghavD1/LeetCodePractice/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaghavD1/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RaghavD1/LeetCodePractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RaghavD1/LeetCodePractice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaghavD1/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/RaghavD1/LeetCodePractice/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/RaghavD1/LeetCodePractice/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
