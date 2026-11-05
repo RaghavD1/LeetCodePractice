@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/RaghavD1/LeetCodePractice/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/RaghavD1/LeetCodePractice/tree/master/0980-unique-paths-iii) |
 | [1046-last-stone-weight](https://github.com/RaghavD1/LeetCodePractice/tree/master/1046-last-stone-weight) |
+| [1306-jump-game-iii](https://github.com/RaghavD1/LeetCodePractice/tree/master/1306-jump-game-iii) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/RaghavD1/LeetCodePractice/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RaghavD1/LeetCodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2401-longest-nice-subarray](https://github.com/RaghavD1/LeetCodePractice/tree/master/2401-longest-nice-subarray) |
@@ -106,11 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/RaghavD1/LeetCodePractice/tree/master/0113-path-sum-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RaghavD1/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1306-jump-game-iii](https://github.com/RaghavD1/LeetCodePractice/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/RaghavD1/LeetCodePractice/tree/master/0279-perfect-squares) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RaghavD1/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1306-jump-game-iii](https://github.com/RaghavD1/LeetCodePractice/tree/master/1306-jump-game-iii) |
 ## Binary Search Tree
 |  |
 | ------- |
