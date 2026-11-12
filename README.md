@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/RaghavD1/LeetCodePractice/tree/master/2401-longest-nice-subarray) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaghavD1/LeetCodePractice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RaghavD1/LeetCodePractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RaghavD1/LeetCodePractice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RaghavD1/LeetCodePractice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RaghavD1/LeetCodePractice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/RaghavD1/LeetCodePractice/tree/master/3731-find-missing-elements) |
