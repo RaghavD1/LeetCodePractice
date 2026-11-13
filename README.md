@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/RaghavD1/LeetCodePractice/tree/master/0980-unique-paths-iii) |
 | [1046-last-stone-weight](https://github.com/RaghavD1/LeetCodePractice/tree/master/1046-last-stone-weight) |
 | [1306-jump-game-iii](https://github.com/RaghavD1/LeetCodePractice/tree/master/1306-jump-game-iii) |
+| [1338-reduce-array-size-to-the-half](https://github.com/RaghavD1/LeetCodePractice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/RaghavD1/LeetCodePractice/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RaghavD1/LeetCodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2401-longest-nice-subarray](https://github.com/RaghavD1/LeetCodePractice/tree/master/2401-longest-nice-subarray) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RaghavD1/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/RaghavD1/LeetCodePractice/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaghavD1/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1338-reduce-array-size-to-the-half](https://github.com/RaghavD1/LeetCodePractice/tree/master/1338-reduce-array-size-to-the-half) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RaghavD1/LeetCodePractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RaghavD1/LeetCodePractice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RaghavD1/LeetCodePractice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/RaghavD1/LeetCodePractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaghavD1/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RaghavD1/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1338-reduce-array-size-to-the-half](https://github.com/RaghavD1/LeetCodePractice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RaghavD1/LeetCodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaghavD1/LeetCodePractice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RaghavD1/LeetCodePractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/RaghavD1/LeetCodePractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RaghavD1/LeetCodePractice/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaghavD1/LeetCodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1338-reduce-array-size-to-the-half](https://github.com/RaghavD1/LeetCodePractice/tree/master/1338-reduce-array-size-to-the-half) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RaghavD1/LeetCodePractice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
 |  |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RaghavD1/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/RaghavD1/LeetCodePractice/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/RaghavD1/LeetCodePractice/tree/master/1046-last-stone-weight) |
+| [1338-reduce-array-size-to-the-half](https://github.com/RaghavD1/LeetCodePractice/tree/master/1338-reduce-array-size-to-the-half) |
 ## Quickselect
 |  |
 | ------- |
